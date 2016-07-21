@@ -6,7 +6,8 @@ public class Driver {
 		System.out.println("Hello");
 		
 		System.out.println("Sales information");
-
+		
+		System.out.println("Sales object create");
 		Sales sale=new Sales();
 		sale.Salemethod();
 		
