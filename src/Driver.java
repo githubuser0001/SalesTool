@@ -10,7 +10,7 @@ public class Driver {
 		//This is a comment
 		Sales sale=new Sales();
 		sale.Salemethod();
-		
+		//changes
 		System.out.println("Sales commit");
 	}
 
