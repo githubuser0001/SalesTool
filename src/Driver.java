@@ -11,7 +11,7 @@ public class Driver {
 		Sales sale=new Sales();
 		sale.Salemethod();
 		//changes are done
-		System.out.println("Sales commit");
+		System.out.println("Sales commit!!");
 	}
 
 }
