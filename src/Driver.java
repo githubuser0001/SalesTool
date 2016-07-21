@@ -7,7 +7,7 @@ public class Driver {
 		
 		System.out.println("Sales information");
 		
-		System.out.println("Sales object create");
+		//This is a comment
 		Sales sale=new Sales();
 		sale.Salemethod();
 		
